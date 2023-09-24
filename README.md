@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chanuka Lakshan Chandra Yapa</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chanuka-chandrayapa&label=Profile%20views&color=0e75b6&style=flat" alt="chanuka-chandrayapa" /> </p>
+[![](https://visitcount.itsvg.in/api?id=Chanuka-ChandraYapa&icon=8&color=9)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently working on [Newspaper Advertisement Analyzer](https://github.com/Newspaper-Advertisement-Analyzer)
 
@@ -32,6 +32,5 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Chanuka-ChandraYapa&icon=8&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
