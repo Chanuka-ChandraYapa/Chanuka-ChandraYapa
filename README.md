@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Chanuka Lakshan Chandra Yapa</h1>
-<h3 align="center">A passionate full stack developer from Sri Lanka</h3>
+<h1 align="center">Hi I'm Chanuka Lakshan Chandra Yapa</h1>
+<h3 align="center">A passionate full stack developer</h3>
 
 [![](https://visitcount.itsvg.in/api?id=Chanuka-ChandraYapa&icon=8&color=9)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on [Newspaper Advertisement Analyzer](https://github.com/Newspaper-Advertisement-Analyzer)
+- 🔭 I’m currently working on my FYP on [Paddy Yield Prediction using Satellite Imagery](https://github.com/Chanuka-ChandraYapa/paddy-yield-prediction)
 
-- 🌱 I’m currently learning **Next.js**
-
-- 📝 Reach my new blog [https://medium.com/@chanukachandrayapa](https://medium.com/@chanukachandrayapa)
+- 📝 Check out my blog [https://medium.com/@chanukachandrayapa](https://medium.com/@chanukachandrayapa)
 
 - 📫 How to reach me **chanukachandrayapa@gmail.com**
 
